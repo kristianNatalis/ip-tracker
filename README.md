@@ -26,8 +26,9 @@ Tersedia dalam dua mode: **CLI (terminal)** dan **GUI (antarmuka grafis)**.
 ```bash
 git clone https://github.com/kristianNatalis/ip-tracker.git
 cd ip-tracker
+cd ip-tracker 
 ```
-
+(sorry guys harus 2x cd biar masuk ke lapisan 3 untuk install requirements nya )
 ### 2. Install dependensi
 
 ```bash
