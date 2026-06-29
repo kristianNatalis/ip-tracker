@@ -24,7 +24,7 @@ Tersedia dalam dua mode: **CLI (terminal)** dan **GUI (antarmuka grafis)**.
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/username/ip-tracker.git
+git clone https://github.com/kristianNatalis/ip-tracker.git
 cd ip-tracker
 ```
 
